@@ -6,6 +6,7 @@ This program analyzes emotional and cognitive responses to different types of st
 ---
 
 **🟢 TO DEMO THIS TOOL:**
+> Please ensure you have installed the SEANCE model within the SEANCE folder (Available on: https://www.linguisticanalysistools.org/seance.html)
 > Please follow steps 3, 4, and 5 in the following set of instructions. You will only have to run 3 files:  
 > - `2standard_deviation_model.py`
 > - `plot_deviation_model_results.py`
